@@ -1,0 +1,28 @@
+"To be or not to be that -- is - - the question -- weather tis nobler - - -"
+	
+
+The dashes are popped while the rest is pushed
+
+
+
+			-
+			-
+			-
+	nobler
+	tis
+	weather
+			-
+			-
+	question
+	the 
+
+			-
+
+			-
+	that
+	be
+	to
+	not
+	or
+	be
+	to
